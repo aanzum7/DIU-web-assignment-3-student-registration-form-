@@ -1,0 +1,2 @@
+Step 1: Paste A3 folder in path:-C:\xampp\htdocs
+step 2:Import "registration.sql" file at http://localhost/phpmyadmin/
